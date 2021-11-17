@@ -8,4 +8,7 @@
 8. Right View
 9. ZigZag traversal in binary tree
 10. Diagonal Traversal 
-11. 
+11. Diagonal Traversal in a matrix
+12. RemoveHalfNodes in B-tree
+13. Mirror tree
+14. Symmetric tree
