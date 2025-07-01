@@ -7,11 +7,12 @@
 7. Left view 
 8. Right View
 9. ZigZag traversal in binary tree
-10. Diagonal Traversal 
-11. Diagonal Traversal in a matrix
-12. RemoveHalfNodes in B-tree
-13. Mirror tree
-14. Same Tree (leetcode) / Identical Trees or not
-15. Subtree of another tree(leetcode)
-16. Symmetric tree
-17. Balenced tree check
+10. Binary tree zigzag level order
+11. Diagonal Traversal 
+12. Diagonal Traversal in a matrix
+13. RemoveHalfNodes in B-tree
+14. Mirror tree
+15. Same Tree (leetcode) / Identical Trees or not
+16. Subtree of another tree(leetcode)
+17. Symmetric tree
+18. Balenced tree check
