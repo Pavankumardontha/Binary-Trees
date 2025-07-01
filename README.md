@@ -16,7 +16,7 @@
 16. Diagonal Traversal in a matrix
 17. Delete Nodes and return forest (leetcode - IMP)
 18. Flatten Binary Tree to Linked List (leetcode - IMP)
-19. Binary to DLL (GFG- IMP)
+19. Binary tree to DLL (GFG- IMP)
 20. RemoveHalfNodes in B-tree
 21. Mirror tree
 22. Same Tree (leetcode) / Identical Trees or not
