@@ -7,7 +7,7 @@
 7. Left view 
 8. Right View
 9. ZigZag traversal in binary tree
-10. Binary tree zigzag level order
+10. Binary tree zigzag level order (leetcode - IMP)
 11. Diagonal Traversal 
 12. Diagonal Traversal in a matrix
 13. RemoveHalfNodes in B-tree
