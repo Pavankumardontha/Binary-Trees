@@ -9,14 +9,15 @@
 9. Top view of a binary tree
 10. Vertical order traversal of a binary tree (leetcode-IMP)
 11. Bottom view of a binary tree
-12. ZigZag traversal in binary tree (leetcode-IMP)
-13. Binary tree zigzag level order (leetcode-IMP)
-14. Diagonal Traversal (GFG-IMP)
-15. Diagonal Traversal in a matrix
-16. Delete Nodes and return forest (leetcode - IMP)
-17. RemoveHalfNodes in B-tree
-18. Mirror tree
-19. Same Tree (leetcode) / Identical Trees or not
-20. Subtree of another tree(leetcode)
-21. Symmetric tree
-22. Balenced tree check
+12. Populating Next Right Pointers in Each Node
+13. ZigZag traversal in binary tree (leetcode-IMP)
+14. Binary tree zigzag level order (leetcode-IMP)
+15. Diagonal Traversal (GFG-IMP)
+16. Diagonal Traversal in a matrix
+17. Delete Nodes and return forest (leetcode - IMP)
+18. RemoveHalfNodes in B-tree
+19. Mirror tree
+20. Same Tree (leetcode) / Identical Trees or not
+21. Subtree of another tree(leetcode)
+22. Symmetric tree
+23. Balenced tree check
