@@ -15,9 +15,10 @@
 15. Diagonal Traversal (GFG-IMP)
 16. Diagonal Traversal in a matrix
 17. Delete Nodes and return forest (leetcode - IMP)
-18. RemoveHalfNodes in B-tree
-19. Mirror tree
-20. Same Tree (leetcode) / Identical Trees or not
-21. Subtree of another tree(leetcode)
-22. Symmetric tree
-23. Balenced tree check
+18. Flatten Binary Tree to Linked List (leetcode - IMP)
+19. RemoveHalfNodes in B-tree
+20. Mirror tree
+21. Same Tree (leetcode) / Identical Trees or not
+22. Subtree of another tree(leetcode)
+23. Symmetric tree
+24. Balenced tree check
