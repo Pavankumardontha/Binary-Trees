@@ -24,7 +24,8 @@
 24. Symmetric tree
 25. Balenced tree check
 26. Maximum width of a binary tree ( leetcode - IMP)
-27. Binary Tree Maximum Sum Path (leetcode - IMP) : Max path sum between any 2 nodes in the binary tree. Nodes can be either leaf or non-leaf nodes
-28. Path Sum II (leetcode-IMP) : Max path sum from root->leaf paths only
-29. Path Sum III (leetcode-IMP)
-30. Root to leaf paths (GFG)
+27. Lowest common ancestor of a binary tree
+28. Binary Tree Maximum Sum Path (leetcode - IMP) : Max path sum between any 2 nodes in the binary tree. Nodes can be either leaf or non-leaf nodes
+29. Path Sum II (leetcode-IMP) : Max path sum from root->leaf paths only
+30. Path Sum III (leetcode-IMP)
+31. Root to leaf paths (GFG)
