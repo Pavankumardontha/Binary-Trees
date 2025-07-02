@@ -29,3 +29,5 @@
 29. Path Sum II (leetcode-IMP) : Max path sum from root->leaf paths only
 30. Path Sum III (leetcode-IMP)
 31. Root to leaf paths (GFG)
+32. All nodes distance K in binary tree (leetcode-IMP)
+33. Amount of time for binary tree to be infected (leetcode-IMP)
