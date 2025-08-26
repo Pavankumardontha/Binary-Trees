@@ -33,3 +33,4 @@
 33. Amount of time for binary tree to be infected (leetcode-IMP)
 34. Construct binary tree from inorder and preorder (leetcode - VIMP)
 35. Construct binary tree from inorder and postorder (leetcode - VIMP)
+36. Construct Binary Search Tree from Preorder Traversal
